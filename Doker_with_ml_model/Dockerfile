@@ -12,6 +12,5 @@ RUN pip3 install jupyter
 
 RUN pip3 install joblib
 
-CMD python3 main.py 
 
 
